@@ -1,8 +1,10 @@
 # Quiz-Game
 
 This is a timed coding quiz with multiple-choice questions. This app is written from scratch.
+## Website
+* Link: https://justtrey12.github.io/Quiz-Game/
 
-# Instructions
+## Instructions
 Click "Start Quiz"
 
 Timer on the top right will start to run
